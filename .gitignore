@@ -1,0 +1,5 @@
+node_modules/
+dist/
+tournament.sqlite
+tournament.sqlite-shm
+tournament.sqlite-wal

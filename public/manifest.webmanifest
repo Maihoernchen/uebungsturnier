@@ -1,0 +1,17 @@
+{
+  "name": "Matline Wrestling Tournaments",
+  "short_name": "Matline",
+  "description": "Challenges, matches, and live wrestling results.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f4ee",
+  "theme_color": "#14251f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
