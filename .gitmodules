@@ -1,0 +1,3 @@
+[submodule "simplescoreboard"]
+	path = simplescoreboard
+	url = https://github.com/gruener-campus-malchow/simplescoreboard.git
